@@ -51,7 +51,6 @@ nav ul li a:hover {
     border-radius: 4px;
 }
 
-/* Section styling */
 section {
     margin: 2rem auto;
     max-width: 800px;
@@ -83,6 +82,7 @@ ul {
     list-style-type: disc;
     margin-left: 1.5rem;
 }
+
 
 a {
     color: #007BFF;
